@@ -2,7 +2,7 @@
 what you had to do, <br/>
 and began</p>
 
-<a href="https://www.hesjevik.im">blog</a>
+<a href="https://stdout.no">blog</a>
 |
 <a href="mailto:tony@hesjevik.no">email</a>
 |
